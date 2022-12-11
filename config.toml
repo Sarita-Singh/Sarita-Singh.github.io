@@ -1,0 +1,31 @@
+base_url = "https://Sarita-Singh.github.io"
+title = "Sarita Singh"
+build_search_index = true
+generate_feed = true
+minify_html = true
+
+theme = "apollo"
+
+[markdown]
+highlight_code = true
+highlight_theme = "ayu-dark"
+
+[extra]
+use_cdn = false
+theme = "auto"
+
+menu = [
+    { name= "/About", url= "/about", weight= 2 },
+    { name = "/Posts", url= "/posts", weight= 1 },
+    { name= "/Artwork", url= "/artwork", weight= 3 },
+]
+
+socials = [
+    { name= "twitter", url= "https://twitter.com/_blacktshirt", icon= "twitter" },
+    { name= "github", url= "https://github.com/Sarita-Singh/", icon = "github" },
+    { name= "linkedin", url= "https://www.linkedin.com/in/sarita-singh-2a95b0181/", icon = "linkedin" },
+]
+
+[extra.analytics]
+enabled = true
+goatcounter_user = "Sarita Singh"
