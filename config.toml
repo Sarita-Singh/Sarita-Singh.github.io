@@ -12,7 +12,6 @@ highlight_theme = "ayu-dark"
 
 [extra]
 use_cdn = false
-theme = "auto"
 
 menu = [
     { name= "/About", url= "/about", weight= 2 },
