@@ -4,7 +4,7 @@ path = "artwork"
 date = "2022-12-11"
 +++
 
-> ## These are a collection of my *Artworks*. Yay!!
+> ## These are a collection of my *Artworks*. Also, checkout [deviantart.com/singhsarita](https://www.deviantart.com/singhsarita)
 
 <p align="left">
   <img alt="Dark" async src="https://res.cloudinary.com/dbvk7r8j1/image/upload/v1670675355/Artwork/IMG20221209142728_mbhlvv.jpg" width="40%" >
