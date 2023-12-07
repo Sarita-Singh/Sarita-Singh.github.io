@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Sarita Singh</title>
+    <link href="https://sarita-singh.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://sarita-singh.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-12-11T00:00:00+00:00</updated>
+    <id>https://sarita-singh.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>About Me</title>
+        <published>2022-12-11T00:00:00+00:00</published>
+        <updated>2022-12-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://sarita-singh.github.io/about/" type="text/html"/>
+        <id>https://sarita-singh.github.io/about/</id>
+        
+        <content type="html">&lt;p&gt;Hi! I am Sarita. &lt;&#x2F;p&gt;
+&lt;p&gt;I am an undergraduate student at the Indian Institute of Technology Kharagpur. Currently I am in my third year of study at the institute completing my B.Tech degree with major in Computer Science and Engineering. My usual way of going about everything in life is: &amp;quot;Learning. Breaking. Unlearning. Building.&amp;quot;. Drawing is one of my favorite pastimes. It helps me to escape the chaos and immerse myself in creativity and self-expression. A funny part about me though - I absolutely loooove &lt;strong&gt;Paperboats&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Sarita-Singh&#x2F;&quot;&gt;Github&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;sarita-singh-2a95b0181&#x2F;&quot;&gt;LinkedIn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_blacktshirt&quot;&gt;Twitter&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;
+&lt;li&gt;Discord: blacktshirt#2626&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You can reach out to me on the &lt;a href=&quot;https:&#x2F;&#x2F;sarita-singh.github.io&#x2F;about&#x2F;sarita01.ar@gmail.com&quot;&gt;mail&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_blacktshirt&quot;&gt;Twitter&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Artwork</title>
+        <published>2022-12-11T00:00:00+00:00</published>
+        <updated>2022-12-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://sarita-singh.github.io/artwork/" type="text/html"/>
+        <id>https://sarita-singh.github.io/artwork/</id>
+        
+        <content type="html">&lt;blockquote&gt;
+&lt;h2 id=&quot;these-are-a-collection-of-my-artworks-also-checkout-deviantart-com-singhsarita&quot;&gt;These are a collection of my &lt;em&gt;Artworks&lt;&#x2F;em&gt;. Also, checkout &lt;a href=&quot;https:&#x2F;&#x2F;www.deviantart.com&#x2F;singhsarita&quot;&gt;deviantart.com&#x2F;singhsarita&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675355&#x2F;Artwork&#x2F;IMG20221209142728_mbhlvv.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675321&#x2F;Artwork&#x2F;IMG20221209140227_lnkfvk.jpg&quot; width=&quot;36%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675346&#x2F;Artwork&#x2F;IMG20221209142620_c8x3dn.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675345&#x2F;Artwork&#x2F;IMG20221209142519_xnr8h1.jpg&quot; width=&quot;39%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;centre&quot;&gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675331&#x2F;Artwork&#x2F;IMG20221209140902_ishfmq.jpg&quot; width=&quot;80%&quot; hspace=&quot;40&quot;&gt;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675331&#x2F;Artwork&#x2F;IMG20221209141034_wczzsv.jpg&quot; width=&quot;48%&quot; &gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675341&#x2F;Artwork&#x2F;IMG20221209140426_uxyn6p.jpg&quot; width=&quot;49%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675320&#x2F;Artwork&#x2F;IMG20221209140123_icm0j4.jpg&quot; width=&quot;44%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675354&#x2F;Artwork&#x2F;IMG20221209142841_a50eaz.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670763736&#x2F;Artwork&#x2F;fuil2ybab0ok6nyns5uf.jpg&quot; width=&quot;50%&quot; hspace=&quot;10&quot;&gt;
+&lt;!-- &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670764432&#x2F;Artwork&#x2F;hr4s8puciitu9powiq9o.jpg&quot; width=&quot;45%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675344&#x2F;Artwork&#x2F;IMG20221209142247_zzgo9q.jpg&quot; width=&quot;40%&quot; hspace=&quot;15&quot;&gt;
+&lt;!-- &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675353&#x2F;Artwork&#x2F;IMG20221209142430_lvifls.jpg&quot; width=&quot;54%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>My internship experience at Uber</title>
+        <published>2022-12-11T00:00:00+00:00</published>
+        <updated>2022-12-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://sarita-singh.github.io/posts/my-internship-experience-at-uber/" type="text/html"/>
+        <id>https://sarita-singh.github.io/posts/my-internship-experience-at-uber/</id>
+        
+        <content type="html">&lt;p align=&quot;center&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;d3m889aznlr23d.cloudfront.net&#x2F;img&#x2F;events&#x2F;id&#x2F;458&#x2F;458390133&#x2F;assets&#x2F;ed3e8240dc5d801438b664066d7231cf.image-24-.png&quot; &gt; &lt;&#x2F;p&gt;&lt;p align = &quot;center&quot;&gt;
+~ Uber Mission Statement
+&lt;&#x2F;p&gt;
+&lt;p&gt;Eight weeks. Summers in Bangalore. Uber credits for rides. &lt;&#x2F;p&gt;
+&lt;p&gt;Before this internship, I had a vivid picture of developing software at a large company: engineers spending eight continuous hours on tedious work. I was very nervous about how will I be able to work at such a big company. Fortunately, my experience at Uber was nothing like that. &lt;&#x2F;p&gt;
+&lt;p&gt;In the summers of 2022, I had the pleasure of being an intern on the Reliability team at Uber which is responsible to increase the reliability of core services at Uber. For my summer project, I&#x27;ve been working on static call graph analysis to generate a callgraph of function caller-callee relation in Golang. Callgraphs are a way to visualize the flow of function calls graphically. Static callgraph analysis shows how the functions in a program interact with each other without executing the project. This allows developers to understand the flow of the program and identify the potential faulty functions. Building all this appeared very daunting to me at first. But a senior member of my team broke the project into small pieces to make it easier for me to understand. &lt;&#x2F;p&gt;
+&lt;p&gt;My first task was to learn &lt;a href=&quot;https:&#x2F;&#x2F;go.dev&#x2F;&quot;&gt;Golang&lt;&#x2F;a&gt;. I had the freedom to explore the Go documentation, and my mentor let me figure out how to learn the language in the way and timeframe that worked best for me. After a couple of weeks, I was comfortable enough with Go. My mentor walked me through how the Go monorepo worked and helped me set up my environment.&lt;&#x2F;p&gt;
+&lt;p&gt;The next stage of my project was research about callgraphs, so I began by reading through &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Static_single-assignment_form&quot;&gt;SSA&lt;&#x2F;a&gt;(Static Single Assignment), &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Intermediate_representation&quot;&gt;IR&lt;&#x2F;a&gt;(Intermediate Representation) under the guidance of my mentor. I did a lot of reading about how to use the SSA dump of a project to build its callgraph. I found the Go monorepo especially helpful in understanding the code implementation and skeleton structure of projects and packages. Initially, Pointer Analysis was used to build a callgraph. However, it took a lot of time to build the callgraph using this method because it is a whole program analysis and it made multiple runs on the program to build a precise callgraph. This led to the constraint of building the callgraph only once a day. Another issue with this method was that the virtual functions calls made via interface were absent in the graph. Hence there were broken links in the graph. I researched and found about CHA(Class Hierarchy Analysis). Using the CHA algorithm we could prepare a table for the entire implements relation between interfaces and build a raw graph with a single run on the project. This way the problem of broken links due to the absence of virtual function calls was solved and a correct raw graph containing all the function calls was obtained. Cha also made graph building pretty fast (less than 2 minutes for some services). However, another issue was that it listed out all the possible function calls from libraries which increased the time taken to obtain the adjacency list from the raw callgraph but we needed only those calls which were made between functions inside our project. So I modified the dfs to print only those edges which had functions present within our project. This further optimized the time taken for getting adjacency list from the raw callgraph. I also faced issues due to the glue architecture and code being written twice in a temporary location. Finally, with the help of my mentor, attached tags to point out the critical changes possible due to changes in a particular function. A keypoint mentioned by my mentor which would have made me more close to an ideal intern: Share with the team a documentation of time taken by each method of callgraph analysis for various services and update it timely.&lt;&#x2F;p&gt;
+&lt;p&gt;Working on this project taught me a lot about how project development at a company works, how to learn without fear of failure, and the importantance of working in a team. From my first day in the office itself, I found friendly people and colourful, sunny spaces. I found constant support whenever I encountered an issue or had a question. There would be someone in the team always available to help and they really made me feel like part of a group here at Uber. This internship overturned my assumptions about the industry, as I was free to pursue projects that interested me, supported by a strong and welcoming community. &lt;&#x2F;p&gt;
+&lt;p&gt;I am thankful to my team, my friends, and everyone else who made my experience so wonderful! &lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
